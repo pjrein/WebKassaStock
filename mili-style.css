@@ -1,0 +1,65 @@
+/* 
+    Document   : mili-style
+    Created on : Jan 23, 2015, 10:01:45 AM
+    Author     : paulina
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body {background-color: lightgray}
+h2 {color: blue ;  text-align: center }
+p {color: deeppink; border: 1px solid black; padding: 10px; margin: 100px }
+title {color: red ; background-color: yellow}
+#header {
+    background-color: lightgray ;
+    color: blue ;
+    text-align: center;
+    padding: 5px;
+   // border-color:  black;
+   // border-style: solid;
+}
+#section {
+    border-color:  black;
+    border-style: solid;
+    width:1000px;
+    float:left;
+    padding:10px;	 	 
+}
+div.container {
+    width : 80%;    
+    border: solid black 1px;
+    margin: 0px;
+}
+div.left {
+    float: left;
+    width : 200px;
+    border: solid black 1px;
+    margin: 0px;
+}
+div.mid {
+    float : left;
+    width : 200px;
+    border: solid black 1px;
+    margin: 0px;
+}
+div.right {
+    
+    width : 400px;
+    border: #ffffff;
+    margin: 0px;
+    border: solid red thick;
+}
+
+div.bottom {
+    clear: left;
+    border: solid black 1px;
+}
+.thumbnail {    
+    width: 110px;
+    height: 90px;
+    margin: 5px;
+}

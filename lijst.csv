@@ -1,0 +1,13 @@
+"EAN","product","prijs","units"
+12345,"test zonder stock",2,30
+20005825,"melk chocolaat",150,31
+20005832,"puur chocolaat",150,32
+12346,"test stock 2",2,33
+20368197,"witte chocolaat",150,34
+333333,"bestaat niet",33,35
+20029838,"melk chocolaat met hazelnoot",150,36
+999999,"bestaat niet",33,37
+10,"test-stock-10",22,21
+11,"test-stock-11",22,21
+13,"test-stock-13",22,21
+14,"test-stock-14",22,21
